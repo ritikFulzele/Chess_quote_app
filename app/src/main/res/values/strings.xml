@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Chess Quote App</string>
+
+    <string name="quote">      “Many bad decisions come from wanting
+        to just get the process over to escape
+        the pressure of having to make the
+        decision.”</string>
+</resources>
